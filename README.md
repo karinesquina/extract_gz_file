@@ -5,7 +5,7 @@ You can replace the URL, and your local path.
 **Libs**
 
 - requests;
-- ytesIO;
+- BytesIO;
 - gzip;
 - Path;
 - shutil;
